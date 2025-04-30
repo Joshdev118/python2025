@@ -30,3 +30,7 @@ Team Members:
 2. Adam
 3. Aiman
 4. Syamer
+
+## Team J
+1. Jit Sin
+2. Joshua
